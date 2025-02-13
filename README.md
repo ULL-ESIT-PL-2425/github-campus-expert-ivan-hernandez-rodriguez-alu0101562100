@@ -1,7 +1,6 @@
 # 📌 Mi Currículum Vitae
 
-![Mi Foto]
-(docs/Sitting-Wolf-meme-6z9kbk.jpg)
+![Mi Foto](docs/Sitting-Wolf-meme-6z9kbk.jpg)
 
 ## 📜 Sobre mí
 
