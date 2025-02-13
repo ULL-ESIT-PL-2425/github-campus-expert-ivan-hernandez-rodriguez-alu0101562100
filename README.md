@@ -8,10 +8,10 @@ Soy un diseñador gráfico especializado en la creación y animación de logotip
 
 ## 🔗 Enlaces
 
-- [Mi perfil en el campus virtual](https://campus.ejemplo.com/usuario)
-- [Mi portfolio](https://miportfolio.com)
+- [Mi perfil en el campus virtual](https://campusingenieriaytecnologia2425.ull.es/user/profile.php)
+- [Mi portfolio](https://www.dezeen.com/tag/jonathan-ive/))
 
-[![Enlace a mi portfolio](https://via.placeholder.com/100)](https://miportfolio.com)
+[![Enlace a mi portfolio]([https://via.placeholder.com/100)](https://www.dezeen.com/tag/jonathan-ive/)]([https://miportfolio.com](https://www.dezeen.com/tag/jonathan-ive/))
 
 ## 🎯 Habilidades
 
