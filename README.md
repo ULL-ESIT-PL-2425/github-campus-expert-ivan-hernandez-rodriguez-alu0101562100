@@ -1,6 +1,6 @@
 # 📌 Mi Currículum Vitae
 
-![Mi Foto][(https://imgur.com/a/LUr9a1B.png)]
+![Mi Foto](https://imgur.com/a/LUr9a1B.png)
 
 ## 📜 Sobre mí
 
