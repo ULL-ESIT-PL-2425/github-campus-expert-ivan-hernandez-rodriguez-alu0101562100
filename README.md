@@ -73,6 +73,15 @@ function fancyAlert(arg) {
 **La ecuación cuadrática**
 
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+## 📈 Diagrama con Mermaid
+
+```mermaid
+graph TD;
+    A[Inicio] --> B[Proceso 1];
+    A --> C[Proceso 2];
+    B --> D[Fin];
+    C --> D;
+```
 
 
 
