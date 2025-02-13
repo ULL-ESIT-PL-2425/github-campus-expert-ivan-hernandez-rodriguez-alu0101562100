@@ -1,6 +1,6 @@
 # 📌 Mi Currículum Vitae
 
-![Mi Foto]([https://via.placeholder.com/150](https://ih1.redbubble.net/image.4321393839.7008/flat,750x,075,f-pad,750x1000,f8f8f8.jpg))
+![Mi Foto][(https://content.imageresizer.com/images/memes/Sitting-Wolf-meme-6z9kbk.jpg)]
 
 ## 📜 Sobre mí
 
