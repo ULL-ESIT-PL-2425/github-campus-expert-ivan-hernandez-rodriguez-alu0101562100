@@ -68,6 +68,14 @@ function fancyAlert(arg) {
 | Photoshop | ⭐⭐⭐⭐ |
 | After Effects | ⭐⭐⭐⭐ |
 | Blender | ⭐⭐⭐ |
+## 🧮 Fórmula Matemática
+
+**La ecuación cuadrática**
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+
+
 
 ## 🎉 Emoji
 
