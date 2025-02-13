@@ -1,22 +1,74 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18170499)
-# Github Campus Expert 
+# 📌 Mi Currículum Vitae
 
-- Nombre 
-- Apellidos 
-- aluXXXX
+![Mi Foto]([https://via.placeholder.com/150](https://ih1.redbubble.net/image.4321393839.7008/flat,750x,075,f-pad,750x1000,f8f8f8.jpg))
 
-## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
+## 📜 Sobre mí
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+Soy un diseñador gráfico especializado en la creación y animación de logotipos. Me apasiona la identidad visual y el branding, buscando siempre la mejor manera de transmitir la esencia de una marca a través del diseño.
 
-## Crear equipo con nombre correcto
+## 🔗 Enlaces
 
-![equipo](docs/equipo.png)
+- [Mi perfil en el campus virtual](https://campus.ejemplo.com/usuario)
+- [Mi portfolio](https://miportfolio.com)
 
-## Crear un project board kanban para este repositorio
+[![Enlace a mi portfolio](https://via.placeholder.com/100)](https://miportfolio.com)
 
-![project board kanban](docs/project_board.png)
+## 🎯 Habilidades
 
-## Solicitar el GitHub Backpack
+### 💡 Diseño gráfico
 
-![github backpack](docs/backpack.png)
+- Adobe Illustrator
+- Adobe Photoshop
+- Figma
+
+### 🎥 Animación
+
+- After Effects
+- Blender
+
+### 🚀 Desarrollo web
+
+- HTML y CSS
+- JavaScript (básico)
+
+## 🏆 Experiencia profesional
+
+1. **Freelance Designer** (2021 - Actualidad)
+2. **Diseñador en Agencia XYZ** (2019 - 2021)
+   
+   Este es un item en una lista con dos párrafos. Este es el primer párrafo.
+   
+   Este es el segundo párrafo que pertenece al mismo item.
+
+## ✨ Cita Favorita
+
+> "El diseño es el pensamiento hecho visual." – Saul Bass
+
+## 🖥️ Código
+
+### Código en línea
+
+Ejemplo de código en línea: `console.log("Hola, mundo!");`
+
+### Bloque de código con sintaxis coloreada
+
+```javascript
+function fancyAlert(arg) {
+  if (arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+## 📊 Tabla de habilidades
+
+| Habilidad | Nivel |
+|-----------|-------|
+| Illustrator | ⭐⭐⭐⭐⭐ |
+| Photoshop | ⭐⭐⭐⭐ |
+| After Effects | ⭐⭐⭐⭐ |
+| Blender | ⭐⭐⭐ |
+
+## 🎉 Emoji
+
+¡Espero que te haya gustado este README! 🚀😃
